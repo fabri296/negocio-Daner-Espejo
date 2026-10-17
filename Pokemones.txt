@@ -18,3 +18,33 @@
 18 - Pidgeot - Normal/Volador - 39.5 kg - 1.5 m
 19 - Rattata - Normal - 3.5 kg - 0.3 m
 20 - Raticate - Normal - 18.5 kg - 0.7 m
+21 - Spearow - Normal/Volador - 2 kg - 0.3 m
+22 - Fearow - Normal/Volador - 38 kg - 1.2 m
+23 - Ekans - Veneno - 6.9 kg - 2 m
+24 - Arbok - Veneno - 65 kg - 3.5 m
+25 - Pikachu - Fuego - 6 kg - 0.4 m
+26 - Raichu - Electrico - 300 kg - 0.8 m
+27 - Sandshrew - Tierra - 12 kg - 0.6 m
+28 - Sandslash - Tierra - 29.5 kg - 1 m
+29 - Nidoran hembra - Veneno - 7 kg - 0.4 m
+30 - Nidorina - Veneno - 20 kg - 0.8 m
+31 - Nidoqueen - Veneno/Tierra - 60 kg - 1.3 m
+32 - Nidoran macho - Veneno - 9 kg - 0.5 m
+33 - Nidorino - Veneno - 19.5 kg - 0.9 m
+34 - Nidoking - Veneno/Tierra - 62 kg - 1.4 m
+35 - Clefairy - Normal - 7.5 kg - 0.6 m
+36 - Clefable - Hada - 40 kg - 1.3 m
+37 - Vulpix - Fuego - 9.9 kg - 0.6 m
+38 - Ninetales - Fuego - 19.9 kg - 1.1 m
+39 - Jigglypuff - Normal/Hada - 5.5 kg - 5 m
+40 - Wigglytuff - Normal/Hada - 12 kg - 1 m
+41 - Zubat - Veneno/Volador 7.5 kg - 0.8 m
+42 - Golbat - Veneno/Volador - 55 kg - 1.6 m
+43 - Oddish - Planta/Veneno - 5,4 kg - 0.5 m
+44 - Glom - Planta/Veneno - 8.6 kg - 0.8 m
+45 - Vileplume - Planta/Veneno - 1.2 kg - 18.6 m
+46 - Paras - Bicho/Planta - 5.4 kg - 0.3 m
+47 - Parasect - Bicho/Planta - 29.5 kg - 1 m
+48 - Venonat - Bicho/Veneno - 30 - 1 m
+49 - Venomoth - Bicho/Agua - 12.5 kg - 1.5 m
+50 - Diglett - Tierra - 0.8 kg - 0.2 m
