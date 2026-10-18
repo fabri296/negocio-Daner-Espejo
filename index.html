@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pokémon: presentación</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="barra">
+    <span class="logo">Pokémon</span>
+    <nav>
+      <a href="#que-es">Qué es</a>
+      <a href="#destacados">Destacados</a>
+      <a href="#curiosidades">Curiosidades</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-texto">
+        <h1>Atrápalos, entrénalos y conviértete en campeón</h1>
+        <p>Una presentación breve del mundo Pokémon, con datos en vivo de la PokeAPI.</p>
+        <a class="boton" href="#destacados">Ver Pokémon destacados</a>
+      </div>
+      <button class="pokebola" id="pokebola" type="button" aria-label="Sacudir la Poké Ball">
+        <span class="pokebola-centro"></span>
+      </button>
+    </section>
+
+    <section id="que-es" class="bloque">
+      <h2>¿Qué es Pokémon?</h2>
+      <p>Pokémon es una franquicia japonesa creada por Satoshi Tajiri y desarrollada por Game Freak. Nació en 1996 con los videojuegos Pokémon Rojo y Verde para Game Boy.</p>
+      <p>En este mundo viven criaturas llamadas Pokémon. Los entrenadores las capturan en Poké Balls, las entrenan y las hacen combatir para superar gimnasios y llegar a la Liga Pokémon.</p>
+    </section>
+
+    <section id="destacados" class="bloque">
+      <h2>Pokémon destacados</h2>
+      <p id="estado">Cargando...</p>
+      <div id="lista" class="lista"></div>
+    </section>
+
+    <section id="curiosidades" class="bloque">
+      <h2>Curiosidades</h2>
+      <p id="dato" class="dato"></p>
+      <button class="boton" id="btn-dato" type="button">Mostrar otro dato</button>
+    </section>
+  </main>
+
+  <footer>
+    <p>Datos e imágenes de <a href="https://pokeapi.co" target="_blank" rel="noopener">PokeAPI</a>.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
